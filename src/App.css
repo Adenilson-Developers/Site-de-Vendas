@@ -1,0 +1,29 @@
+.container {
+  margin-top: 10px;
+  
+}
+
+.purchase-card {
+  width: 400px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6PX 20PX 0 rgba(0, 0, 0, 0.19);
+  padding: 1em;
+
+}
+
+.purchase-card >  .show-grid {
+  padding-bottom: 1.5em;
+
+}
+
+
+.item-details-button:focus{
+  outline: none;
+}
+
+.price-strike {
+  text-decoration-line: line-through;
+  color: gray;
+}
+.promo-code-button:focus{
+  outline: none;
+}
